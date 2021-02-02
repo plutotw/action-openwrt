@@ -17,4 +17,4 @@
 sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.default
 #sed -i '$a src-git liuran001_packages https://github.com/liuran001/openwrt-packages' feeds.conf.default
 #sed -i '$a src-git luci https://github.com/openwrt/luci.git' feeds.conf.default
-src-git luci https://github.com/openwrt/luci.git
+#src-git luci https://github.com/openwrt/luci.git
